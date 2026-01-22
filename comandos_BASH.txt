@@ -3,3 +3,4 @@ cd - muda diretorios
 pwd -  mostra diretorio de trabalho
 cat - mostra o que tem dentro do arquivo de texto
 rm - remove conteudo ou diretorio
+rm -rf -> remove de forma recursiva e forçada todos os diretorios
