@@ -4,3 +4,5 @@ git add nome_arquivo -> adiciona o arquivo para ser commitado
 git commit -m "descrição" -> faz commit do que estava para ser comitado
 git log -> mostra o historico de commit
 
+###Fluxo de Trablho####
+
