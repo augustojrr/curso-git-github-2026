@@ -1,3 +1,5 @@
 ls - lista arquivos
 cd - muda diretorios
 pwd -  mostra diretorio de trabalho
+cat - mostra o que tem dentro do arquivo de texto
+rm - remove conteudo ou diretorio
