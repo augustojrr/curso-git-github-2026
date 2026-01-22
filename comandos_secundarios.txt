@@ -5,3 +5,7 @@ Arquivo contem comandos secundarios de git
 
 #Comandos mais genericos
  - comandos estranhos
+
+#comando randons
+-askldjaksd
+-askldjasld
