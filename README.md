@@ -6,4 +6,4 @@ remotos com GitHub.
 
 Além disso vamos aprender a trabalhar com GitFlow e VScode.
 
-Obrigado caro amigo TMW.
+Obrigado caro amigo, TMW.
