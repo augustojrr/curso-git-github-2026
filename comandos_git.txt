@@ -8,3 +8,5 @@ git reset nome_arquivo-> remove algum arquivo que estava para ser commitado
 
 ###Fluxo de Trablho####
 
+Augusto é lindo
+
