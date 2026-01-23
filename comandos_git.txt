@@ -1,12 +1,12 @@
-git init . -> cria um repositorio git na pasta atual
-git status -> mostra o status de trabalho (de cada arquivo)
+git init . 	-> cria um repositorio git na pasta atual
+git status 	-> mostra o status de trabalho (de cada arquivo)
 git add nome_arquivo -> adiciona o arquivo para ser commitado
 git commit -m "descrição" -> faz commit do que estava para ser comitado
-git log -> mostra o historico de commit
-git diff -> mostra o que há de diferente do estado atual do arquivo para o estado que foi commitado pela ultima vez
+git log 	-> mostra o historico de commit
+git diff 	-> mostra o que há de diferente do estado atual do arquivo para o estado que foi commitado pela ultima vez
 git reset nome_arquivo-> remove algum arquivo que estava para ser commitado
 
 ###Fluxo de Trablho####
 
-Augusto é lindo
+Augusto é lindo.
 
