@@ -8,6 +8,8 @@ Além disso vamos aprender a trabalhar com GitFlow e VScode.
 
 Obrigado caro amigo, TMW.
 
+[Curso Git 2026](https://youtube.com/@teomewhy)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
