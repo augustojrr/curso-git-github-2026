@@ -10,6 +10,10 @@ Obrigado caro amigo, TMW.
 
 [Curso Git 2026](https://youtube.com/@teomewhy)
 
+Confira o nosso canal do youtube, e também no nosso site para saber o que vai rolar no ano de 2026
+[teomewhy.org](https://teomewhy.org/schedule)
+
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
